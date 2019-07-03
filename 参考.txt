@@ -1,0 +1,4 @@
+pages 目录，用于存放页面我们点开可以发现里面有 index 文件夹和 log 文件夹代表着 2 个页面，同时页面中有对应的 index.wxml、index.wxss、index.js、index.json 文件分别控制该页面的结构、样式、逻辑还有配置。
+utils 目录用于存放常用的工具函数，在以后的开发中为了复用工具函数代码会经常用到，例如时间函数。
+app.js 、app.json、app.wxss 分别为全局的逻辑、配置和样式文件。
+project.config.json、sitemap.json 分别是记录开发者工具的配置信息。
